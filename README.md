@@ -52,7 +52,7 @@ This project demonstrates the use of embedded systems, sensors, MOSFET-based mot
 ## Circuit
 <img width="3006" height="1806" alt="Water Tank Controller Circuit" src="https://github.com/user-attachments/assets/6da099c2-8d56-4271-ab3f-e777a974e17c" />
 
-#Images
+# Images
 <img width="719" height="405" alt="Image 2026-08-01" src="https://github.com/user-attachments/assets/fd9e8670-b61c-4827-8508-3af7f599caf5" />
 
 
